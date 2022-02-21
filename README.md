@@ -1,13 +1,3 @@
----
-title: "Intro to UC-Commerce"
-author: Arusyak Khachatryan
-date: 
-html_document:
-theme:
-toc: true
-toc_float: true
-
-
 # UC-Commerce Overview
  <p> This document provides a summary
  of the Ucraft UC-Commerce platform. Here, 
